@@ -1,4 +1,16 @@
+
+<p align="right">
+  <a href="https://github.com/peachez-z">
+    <img src="https://komarev.com/ghpvc/?username=peachez-z&style=flat-square&color=yellow" alt="GitHub Profile Views" />
+      <img src="https://img.shields.io/github/followers/peachez-z?label=Follow&style=social" />
+  </a>
+</p>
+
+
+
+
 # 👋 안녕하세요! 채가을입니다.
+
   <img src="https://render.gitanimals.org/lines/peachez-z?pet-id=712467306291172822" width="1000" height="200"/>
 프론트엔드 퍼블리셔로 시작해, 사용자 경험을 고려한 웹서비스를 기획하고 개발하는 웹 개발자로 성장 중입니다.  
 디자인 가이드와 시스템 흐름을 깊이 이해하고, 기획자·디자이너와의 협업을 통해 더 나은 화면과 구조를 만들어내는 데 집중합니다.
@@ -93,3 +105,8 @@
 
 감성적인 코드, 논리적인 구현, 따뜻한 사용자 경험을 만드는 개발자가 되겠습니다.  
 함께 성장하고 싶은 분은 언제든 연락주세요! 🌱
+
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=peachez-z&show_icons=true&theme=default&hide=issues&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachez-z&layout=compact&theme=default" /></p>
+
+
