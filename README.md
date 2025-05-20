@@ -9,7 +9,7 @@
 <p align="center">
  <img width="30%" src="https://user-images.githubusercontent.com/122509630/212248023-c19ee088-804c-40da-adc3-c19a382fccac.png"/> 
 </p>
-  <img src="https://render.gitanimals.org/lines/peachez-z?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/peachez-z?pet-id=712467306291172822" width="1000" height="200"/>
 
 
 <h2 align="center">⋆⁺₊⋆⭐ my profile ⭐⋆⁺₊⋆</h2>
