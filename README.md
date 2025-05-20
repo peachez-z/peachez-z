@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpeachsz-z%2Fhit-counter&count_bg=%23F7F7F6&title_bg=%23F1C3EC&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
+ <a href="https://github.com/devxb/gitanimals">
+</a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=F4B7C2&text=Welcome&animation=blink&height=200&fontColor=FFFFFF&desc=peachsz-z's%20home&descAlignY=75"/>
 </div>
@@ -9,6 +9,8 @@
 <p align="center">
  <img width="30%" src="https://user-images.githubusercontent.com/122509630/212248023-c19ee088-804c-40da-adc3-c19a382fccac.png"/> 
 </p>
+  <img src="https://render.gitanimals.org/lines/peachez-z?pet-id=1" width="1000" height="120"/>
+
 
 <h2 align="center">⋆⁺₊⋆⭐ my profile ⭐⋆⁺₊⋆</h2>
 <h4 align="center"> MBTI : ESFP🍰 </h4>
@@ -32,6 +34,7 @@
 
  <br/>
  <br/>
+
  
 
   
