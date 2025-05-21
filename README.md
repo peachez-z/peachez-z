@@ -65,6 +65,17 @@
 
 ## 📌 주요 프로젝트
 
+### 📖 가을방명록 (Autumn Guestbook)  
+**Django + React 기반 SPA 감성 웹 방명록 서비스**  
+
+- 새로운 회사 입사 후 **배포 실습 및 실무 감각 강화를 위해 제작**  
+- React + Django 통합 구성으로 서버 하나에서 운영  
+- 감성적인 UI  
+- Naver Cloud 서버에서 배포, HTTPS 및 도메인 설정 완료  
+- 주요 기술: `React`, `SCSS`, `Django`, `Axios`, `Docker`, `Nginx`, `Gunicorn`  
+- 배포 주소: [https://autumn-log.kr](https://autumn-log.kr)
+
+
 ### 🐰 책먹는 토끼 (Book-Eating Bunny)  
 **React 기반의 독서 기록 및 추천 플랫폼**
 
